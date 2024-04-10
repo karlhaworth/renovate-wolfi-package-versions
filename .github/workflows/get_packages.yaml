@@ -1,0 +1,40 @@
+name: Get Packages
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: 0 */4 * * *
+
+env:
+  PYTHON_VERSION: "3.11"
+
+jobs:
+  get-actions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 #v4.1.2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      # - name: Install pipenv
+      #   run: pip install pipenv
+
+      # - name: Install Python Modules
+      #   run: pipenv install --ignore-pipfile
+
+      - name: Install Python Modules
+        run: pip install pydantic && python3 app/main.py
+
+      - name: push changes to remote
+        run: |
+            git config --global user.name "karlhaworth"
+            git config --global user.email "git@karlhaworth.com"
+
+            git add packages/**
+            git commit -m "Create actions results file"
+            git push
+            git push origin HEAD:main

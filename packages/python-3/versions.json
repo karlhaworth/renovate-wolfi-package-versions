@@ -1,0 +1,104 @@
+[
+  {
+    "version": "3.11.8-r2",
+    "isDeprecated": false,
+    "releaseTimestamp": "1709821362",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r2",
+    "isDeprecated": false,
+    "releaseTimestamp": "1709821362",
+    "lts": false
+  },
+  {
+    "version": "3.11.8-r3",
+    "isDeprecated": false,
+    "releaseTimestamp": "1709854075",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r3",
+    "isDeprecated": false,
+    "releaseTimestamp": "1709854075",
+    "lts": false
+  },
+  {
+    "version": "3.10.13-r6",
+    "isDeprecated": false,
+    "releaseTimestamp": "1709914022",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r4",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710269155",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r5",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710282115",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r6",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710377738",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r7",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710393273",
+    "lts": false
+  },
+  {
+    "version": "3.10.13-r7",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710439002",
+    "lts": false
+  },
+  {
+    "version": "3.11.8-r4",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710439002",
+    "lts": false
+  },
+  {
+    "version": "3.10.13-r8",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710446242",
+    "lts": false
+  },
+  {
+    "version": "3.11.8-r5",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710446242",
+    "lts": false
+  },
+  {
+    "version": "3.12.2-r8",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710446242",
+    "lts": false
+  },
+  {
+    "version": "3.10.14-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1710895837",
+    "lts": false
+  },
+  {
+    "version": "3.11.9-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712072432",
+    "lts": false
+  },
+  {
+    "version": "3.12.3-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712680594",
+    "lts": false
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "version": "16.20.1-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1690850747",
+    "lts": true
+  },
+  {
+    "version": "16.20.2-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1691606141",
+    "lts": true
+  },
+  {
+    "version": "16.20.2-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1692206188",
+    "lts": true
+  },
+  {
+    "version": "18.17.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1690850747",
+    "lts": true
+  },
+  {
+    "version": "18.17.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1691608185",
+    "lts": true
+  },
+  {
+    "version": "18.17.1-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1692206188",
+    "lts": true
+  },
+  {
+    "version": "18.18.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1695088092",
+    "lts": true
+  },
+  {
+    "version": "18.18.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1696963519",
+    "lts": true
+  },
+  {
+    "version": "18.18.1-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1697095709",
+    "lts": true
+  },
+  {
+    "version": "18.18.2-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1697327773",
+    "lts": true
+  },
+  {
+    "version": "20.9.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1698182145",
+    "lts": true
+  },
+  {
+    "version": "20.10.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1700674570",
+    "lts": true
+  },
+  {
+    "version": "18.19.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1701286894",
+    "lts": true
+  },
+  {
+    "version": "20.10.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1704756820",
+    "lts": true
+  },
+  {
+    "version": "18.19.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1704756820",
+    "lts": true
+  },
+  {
+    "version": "16.20.2-r3",
+    "isDeprecated": false,
+    "releaseTimestamp": "1704756820",
+    "lts": true
+  },
+  {
+    "version": "20.11.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1704908256",
+    "lts": true
+  },
+  {
+    "version": "20.11.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1707661721",
+    "lts": true
+  },
+  {
+    "version": "18.19.0-r2",
+    "isDeprecated": false,
+    "releaseTimestamp": "1707661781",
+    "lts": true
+  },
+  {
+    "version": "16.20.2-r4",
+    "isDeprecated": false,
+    "releaseTimestamp": "1707661781",
+    "lts": true
+  },
+  {
+    "version": "18.19.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1707939514",
+    "lts": true
+  },
+  {
+    "version": "20.11.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1707941356",
+    "lts": true
+  },
+  {
+    "version": "18.20.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1711478715",
+    "lts": true
+  },
+  {
+    "version": "20.12.0-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1711478715",
+    "lts": true
+  },
+  {
+    "version": "16.20.2-r5",
+    "isDeprecated": false,
+    "releaseTimestamp": "1711640678",
+    "lts": true
+  },
+  {
+    "version": "18.20.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1711640678",
+    "lts": true
+  },
+  {
+    "version": "20.12.0-r1",
+    "isDeprecated": false,
+    "releaseTimestamp": "1711640678",
+    "lts": true
+  },
+  {
+    "version": "18.20.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712158932",
+    "lts": true
+  },
+  {
+    "version": "20.12.1-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712158932",
+    "lts": true
+  },
+  {
+    "version": "18.20.2-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712771346",
+    "lts": true
+  },
+  {
+    "version": "20.12.2-r0",
+    "isDeprecated": false,
+    "releaseTimestamp": "1712771346",
+    "lts": true
+  }
+]
